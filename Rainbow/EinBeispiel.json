@@ -1,0 +1,99 @@
+{
+    "main": {
+        "laenge": 1300,
+        "hoehe": 1300,
+        "belastung": {
+            "wind": 0.0001,
+            "tempgrad": 0,
+            "tempdiff": 0,
+            "erdlastoben": 0,
+            "erdlastunten": 0,
+            "wichtevorsatzschale": 0,
+            "wichtetragschale": 0,
+            "Ausdehnungskoeffizient": 0,
+            "einzellast": [
+                {
+                    "x": 250,
+                    "y": 1300,
+                    "wertx": 0.0,
+                    "werty": 0.0,
+                    "wertz": 10000.0
+                },
+                {
+                    "x": 250,
+                    "y": 2100,
+                    "wertx": 0.0,
+                    "werty": 0.0,
+                    "wertz": 10000.0
+                }
+            ]
+        },
+        "v": 0.2,
+        "gitterhorizontal": 21,
+        "gittervertikal": 21,
+        "oeffnung": [],
+        "Tafelbauweise": "frei h\u00e4ngende Vorsatzschale",
+        "Anker": [
+            {
+                "x": 400,
+                "y": 700,
+                "Ankertyp": "Kunststoffanker",
+                "Gesetz": "Kunststoff Gesetz 1"
+            },
+            {
+                "x": 400,
+                "y": 400,
+                "Ankertyp": "Kunststoffanker",
+                "Gesetz": "Kunststoff Gesetz 1"
+            },
+            {
+                "x": 700,
+                "y": 400,
+                "Ankertyp": "Kunststoffanker",
+                "Gesetz": "Kunststoff Gesetz 1"
+            },
+            {
+                "x": 700,
+                "y": 700,
+                "Ankertyp": "Kunststoffanker",
+                "Gesetz": "Kunststoff Gesetz 1"
+            }
+        ]
+    },
+    "vorsatzschale": {
+        "dicke": 70,
+        "Elastizitaetsmodul": 37000.0,
+        "Wichte": 2.5e-05,
+        "Zylinderdruckfestigkeit": 57,
+        "Zugbruchdehnung": 0.00015,
+        "Elastizitaetsmodul Betonstahl": 200000,
+        "Betondeckung obere Bewehrung": 30,
+        "Querschnittsflaeche obere Bewhrung": 0.188,
+        "Betondeckung untere Bewehrung": 10,
+        "Querschnittsflaeche untere Bewhrung": 1e-05,
+        "Fliesgrenze Betonstahl": 500
+    },
+    "tragschale": {
+        "dicke": 70,
+        "Elastizitaetsmodul": 37000.0,
+        "Wichte": 2.5e-05,
+        "Zylinderdruckfestigkeit": 57,
+        "Zugbruchdehnung": 0.00015,
+        "Elastizitaetsmodul Betonstahl": 200000,
+        "Betondeckung obere Bewehrung": 30,
+        "Querschnittsflaeche obere Bewhrung": 0.335,
+        "Betondeckung untere Bewehrung": 30,
+        "Querschnittsflaeche untere Bewhrung": 0.188,
+        "Fliesgrenze Betonstahl": 500
+    },
+    "Kunststoff1": {
+        "Cx": 219.0,
+        "Cy": 219.0,
+        "Cz": 67800.0
+    },
+    "Kunststoff2": {
+        "Cx": 0.0,
+        "Cy": 0.0,
+        "Cz": 0.0
+    }
+}

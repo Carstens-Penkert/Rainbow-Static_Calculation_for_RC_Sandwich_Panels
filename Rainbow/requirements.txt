@@ -1,0 +1,6 @@
+numpy
+PyQt5
+matplotlib
+pyomo
+ipopt
+pandas

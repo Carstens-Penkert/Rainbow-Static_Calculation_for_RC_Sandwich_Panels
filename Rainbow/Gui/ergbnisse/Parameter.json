@@ -1,0 +1,172 @@
+{
+    "main": {
+        "laenge": 1250,
+        "hoehe": 2300,
+        "belastung": {
+            "wind": 0.00024,
+            "tempgrad": 5.0,
+            "tempdiff": 50.0,
+            "erdlastoben": 0,
+            "erdlastunten": 0,
+            "wichtevorsatzschale": 0,
+            "wichtetragschale": 0,
+            "Ausdehnungskoeffizient": 1e-05,
+            "einzellast": []
+        },
+        "v": 0.2,
+        "gitterhorizontal": 46,
+        "gittervertikal": 25,
+        "oeffnung": [],
+        "Tafelbauweise": "frei h\u00e4ngende Vorsatzschale",
+        "Anker": [
+            {
+                "x": 100,
+                "y": 100
+            },
+            {
+                "x": 450,
+                "y": 100
+            },
+            {
+                "x": 800,
+                "y": 100
+            },
+            {
+                "x": 1150,
+                "y": 100
+            },
+            {
+                "x": 100,
+                "y": 450
+            },
+            {
+                "x": 450,
+                "y": 450
+            },
+            {
+                "x": 800,
+                "y": 450
+            },
+            {
+                "x": 1150,
+                "y": 450
+            },
+            {
+                "x": 100,
+                "y": 800
+            },
+            {
+                "x": 450,
+                "y": 800
+            },
+            {
+                "x": 800,
+                "y": 800
+            },
+            {
+                "x": 1150,
+                "y": 800
+            },
+            {
+                "x": 100,
+                "y": 1150
+            },
+            {
+                "x": 450,
+                "y": 1150
+            },
+            {
+                "x": 800,
+                "y": 1150
+            },
+            {
+                "x": 1150,
+                "y": 1150
+            },
+            {
+                "x": 100,
+                "y": 1500
+            },
+            {
+                "x": 450,
+                "y": 1500
+            },
+            {
+                "x": 800,
+                "y": 1500
+            },
+            {
+                "x": 1150,
+                "y": 1500
+            },
+            {
+                "x": 100,
+                "y": 1850
+            },
+            {
+                "x": 450,
+                "y": 1850
+            },
+            {
+                "x": 800,
+                "y": 1850
+            },
+            {
+                "x": 1150,
+                "y": 1850
+            },
+            {
+                "x": 100,
+                "y": 2200
+            },
+            {
+                "x": 450,
+                "y": 2200
+            },
+            {
+                "x": 800,
+                "y": 2200
+            },
+            {
+                "x": 1150,
+                "y": 2200
+            }
+        ]
+    },
+    "vorsatzschale": {
+        "dicke": 80,
+        "Elastizitaetsmodul": 37000.0,
+        "Wichte": 2.5e-05,
+        "Zylinderdruckfestigkeit": 0,
+        "Zugbruchdehnung": 0,
+        "Elastizitaetsmodul Betonstahl": 0,
+        "Betondeckung obere Bewehrung": 0,
+        "Querschnittsflaeche obere Bewhrung": 0,
+        "Betondeckung untere Bewehrung": 0,
+        "Querschnittsflaeche untere Bewhrung": 0,
+        "Fliesgrenze Betonstahl": 0
+    },
+    "tragschale": {
+        "dicke": 160,
+        "Elastizitaetsmodul": 37000.0,
+        "Wichte": 2.5e-05,
+        "Zylinderdruckfestigkeit": 0,
+        "Zugbruchdehnung": 0,
+        "Elastizitaetsmodul Betonstahl": 0,
+        "Betondeckung obere Bewehrung": 0,
+        "Querschnittsflaeche obere Bewhrung": 0,
+        "Betondeckung untere Bewehrung": 0,
+        "Querschnittsflaeche untere Bewhrung": 0,
+        "Fliesgrenze Betonstahl": 0
+    },
+    "Kunststoff1": {
+        "Cx": 77.0,
+        "Cy": 77.0,
+        "Cz": 47559.0
+    },
+    "Kunststoff2": {
+        "Cx": 0,
+        "Cy": 0,
+        "Cz": 0
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "Rainbow": {
+        "width": 1352,
+        "height": 877,
+        "x_pos": -2686,
+        "y_pos": -46
+    },
+    "Rainbow: Definition der Geometrie": {
+        "width": 800,
+        "height": 500,
+        "x_pos": -2896,
+        "y_pos": 374
+    },
+    "Rainbow: Definition der \u00d6ffnungen": {
+        "width": 800,
+        "height": 500,
+        "x_pos": -1772,
+        "y_pos": 331
+    },
+    "Rainbow: Berechnungsparameter": {
+        "width": 508,
+        "height": 249,
+        "x_pos": -2939,
+        "y_pos": 656
+    },
+    "Rainbow: Festlegen der St\u00fctzstellen": {
+        "width": 359,
+        "height": 1144,
+        "x_pos": -2160,
+        "y_pos": -106
+    },
+    "Rainbow: Definition von Einzellasten": {
+        "width": 800,
+        "height": 500,
+        "x_pos": 500,
+        "y_pos": 500
+    },
+    "Rainbow: Impressum": {
+        "width": 326,
+        "height": 266,
+        "x_pos": -1602,
+        "y_pos": 332
+    },
+    "basic_color_code": {
+        "1": [
+            "#0008fc",
+            "F.P"
+        ],
+        "2": [
+            "#eb4034",
+            "L.U.E"
+        ],
+        "3": [
+            "#ebba34",
+            "L.O.E"
+        ],
+        "4": [
+            "#bdeb34",
+            "R.U.E"
+        ],
+        "5": [
+            "#34eb5c",
+            "R.O.E"
+        ],
+        "6": [
+            "#34d3eb",
+            "R.U"
+        ],
+        "7": [
+            "#a534eb",
+            "R.L"
+        ],
+        "8": [
+            "#bada55",
+            "R.O"
+        ],
+        "9": [
+            "#ff80ed",
+            "R.R"
+        ],
+        "11": [
+            "#f1c806",
+            "\u00d6.U.L"
+        ],
+        "12": [
+            "#053410",
+            "\u00d6.U.R"
+        ],
+        "13": [
+            "#98c472",
+            "\u00d6.O.L"
+        ],
+        "14": [
+            "#9b7b64",
+            "\u00d6.O.R"
+        ],
+        "15": [
+            "#eb610d",
+            "Anker Kunstoff Materialgesetz 1"
+        ],
+        "16": [
+            "#806da1",
+            "Anker Kunstoff Materialgesetz 2"
+        ],
+        "17": [
+            "#72881f",
+            "Anker Metall Materialgesetz 1"
+        ],
+        "18": [
+            "#95a5c6",
+            "Anker Metall Materialgesetz 2"
+        ]
+    },
+    "Materialgesetze": {
+        "Kunsstoff1": {
+            "Cx": 1000,
+            "Cy": 1000
+        },
+        "Kunsstoff2": {
+            "Cx": 5000,
+            "Cy": 5000
+        },
+        "Metall1": {
+            "u": [
+                5
+            ],
+            "F": [
+                7
+            ]
+        },
+        "Metall2": {
+            "u": [
+                5
+            ],
+            "F": [
+                7
+            ]
+        }
+    },
+    "DefaultSettings": {
+        "Emod": 30,
+        "Tempdiff": 50,
+        "Tempgrad": 5,
+        "Alphat": 1e-05
+    },
+    "Rainbow: Definition der Vorsatzschale": {
+        "width": 524,
+        "height": 104,
+        "x_pos": -2047,
+        "y_pos": 127
+    },
+    "Rainbow: Auswahl der Last": {
+        "width": 620,
+        "height": 241,
+        "x_pos": -2047,
+        "y_pos": 127
+    },
+    "Rainbow: Einstellen der Last": {
+        "width": 309,
+        "height": 201,
+        "x_pos": -2047,
+        "y_pos": 127
+    }
+}
